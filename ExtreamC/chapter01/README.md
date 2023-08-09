@@ -26,9 +26,9 @@
 
 ## [전처리기 지시자](/ExtreamC/chapter01/1.%20Preprocessor_Directives/README.md)
 
-### [매크로](/ExtreamC/chapter01/1.%20Preprocessor_Directives/README.md)
+### [매크로](/ExtreamC/chapter01/1.%20Preprocessor_Directives/README.md#매크로)
 
-### [조건부 컴파일](/ExtreamC/chapter01/1.%20Preprocessor_Directives//README.md)
+### [조건부 컴파일](/ExtreamC/chapter01/1.%20Preprocessor_Directives//README.md#조건부-컴파일)
 
 ## 포인터변수
 
