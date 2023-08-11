@@ -4,22 +4,22 @@
 
 int selectionSort(int* arr, int arr_size)
 {
-	int i, j, min, tmp;
+	int i, j, minIndex, tmp;
 	int count;
 
 	for (i = 0; i < arr_size - 1; i++)
 	{
-		min = i;
+		minIndex = i;
 		for (j = i + 1; j < arr_size; j++)
 		{
-			if(arr[j] < arr[min])
+			count++;
+			if(arr[j] < arr[minIndex])
 			{
-				count++;
-				min = j;
+				minIndex = j;
 			}
 		}
-		tmp = arr[min];
-		arr[min] = arr[i];
+		tmp = arr[minIndex];
+		arr[minIndex] = arr[i];
 		arr[i] = tmp;
 	}
 	return count;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 			count += selectionSort(arr, i);
 		}
 		avg = count / iter;
-		expected = (i * (i-1)) / 2;
+		expected = (i * (i+1)) / 2;
 		printf("N=%d time-complextiry : expected = %d, actual = %d\n", i, expected, avg);
 	}
 
