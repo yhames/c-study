@@ -8,6 +8,8 @@
 	- [chapter 4 : 스택](#chapter-4--스택)
 	- [chapter 5 : 큐/덱](#chapter-5--큐덱)
 
+> 제목을 클릭하면 해당 페이지로 이동합니다.
+
 # 전문가를 위한 C
 
 ## [Chapter 1 필수요소 : 전처리기 지시자](/ExtremeC/chapter01/1_Preprocessor_Directives/README.md)
