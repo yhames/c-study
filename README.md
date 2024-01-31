@@ -3,7 +3,10 @@
 	- [Chapter 2 소스 코드에서 이진 파일로](#chapter-2-소스-코드에서-이진-파일로)
 	- [Chapter 3 목적 파일](#chapter-3-목적-파일)
 	- [Chapter 5 : 스택과 힙](#chapter-5--스택과-힙)
-- [C언어로 쉽게 풀어쓴 자료구조](#c언어로-쉽게-풀어쓴-자료구조)
+- [C로 구현한 자료구조](#c로-구현한-자료구조)
+	- [chapter 1 : 정렬](#chapter-1--정렬)
+	- [chapter 4 : 스택](#chapter-4--스택)
+	- [chapter 5 : 큐/덱](#chapter-5--큐덱)
 
 # 전문가를 위한 C
 
@@ -15,4 +18,10 @@
 
 ## [Chapter 5 : 스택과 힙](/ExtremeC/chapter05/README.md)
 
-# [C언어로 쉽게 풀어쓴 자료구조](/DataStructure/README.md)
+# C로 구현한 자료구조
+
+## [chapter 1 : 정렬](/DataStructure/chapter01)
+
+## [chapter 4 : 스택](/DataStructure/chapter04)
+
+## [chapter 5 : 큐/덱](/DataStructure/chapter05)
